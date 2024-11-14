@@ -1,0 +1,8 @@
+pt-BR:
+  enums:
+    time_unit:
+      minute: Minuto
+      hour: Hora
+      day: Dia
+      week: Semana
+      month: Mês
